@@ -11,4 +11,4 @@ I wanted to start this page up so that I have a place to document some of my exp
 
 I'm not totally sure yet how I want to approach writing, how much I want to share, what kind of content I will post, or even how frequently I will post. We will see how this space evolves and changes as time goes on. For now, I'm glad I finally set up this small little platform for myself - and for you guys who are interested in following along.
 
-- Kevin
+&ndash Kevin
