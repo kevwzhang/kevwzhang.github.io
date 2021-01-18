@@ -10,4 +10,4 @@ I am a 23 year old data platform engineer at a financial services company. I hol
 
 ### About This Website
 
-I started this page so I could have a platform to document and share my thoughts and experiences as I make my way through life. Here, you will find posts about my life experiences, advice, personal growth, and anything else I want to share.
+I started this page so I could have a platform to document and share my thoughts and experiences as I make my way through life. Here, you will find posts about my life experiences, advice, personal growth, and anything else I want to share and/or document for myself.
