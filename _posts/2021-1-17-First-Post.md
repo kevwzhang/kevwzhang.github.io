@@ -10,3 +10,5 @@ A little about me at the time of writing - I am 23 years old and living in downt
 I wanted to start this page up so that I have a place to document some of my experiences and have a platform to share some of my thoughts. While in undergrad, I thought it would be cool to document my college experiences in some way because living on my own for the first time away from family gave me a lot of freedom to try new things and forced me to grow as a person. I would've liked to have started this site up maybe back in January 2019 when I was fresh out of college because a lot has happened over the past few years, but hey, better late then never.
 
 I'm not totally sure yet how I want to approach writing, how much I want to share, what kind of content I will post, or even how frequently I will post. We will see how this space evolves and changes as time goes on. For now, I'm glad I finally set up this small little platform for myself - and for you guys who are interested in following along.
+
+- Kevin
