@@ -9,7 +9,7 @@ For the first several months or so since starting my current job, I didn't reall
 
 Here are some financial moves I've made and things I've learned so far since starting my career. Note that I'm not a financial expert, nor do I claim to be one, but my hope is that some of you may find this information useful as you begin to plan your strategies and work towards your financial goals. It's also important to note that everyone's situation is different, so everything here that applies to me and my own personal experiences may or may not be applicable to you.
 
-### Open a Credit Card Account ASAP
+### Open a Credit Card Account ASAP  
 One of the very first things I did after starting my job was apply for a credit card. I had a stable income and was living on my own, so it was the perfect time to open a line of credit and build up my credit score.
 If your like me, you've finished your bachelor's degree and landed a good job and. I was also fortunate enough to graduate without accruing any student loan debt through a combination of scholarships, enrolling in a in-state school, and financial support from family - a luxury that I am aware that many people do not have.
 
