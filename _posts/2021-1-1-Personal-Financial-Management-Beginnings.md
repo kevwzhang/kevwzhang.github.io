@@ -32,7 +32,7 @@ I personally have not had to deal with any of these consequences of owning a cre
 1. Treat your credit card as if it was a debit card - meaning don't spend more than you have. Only make purchases if you could theoretically pay for it right now.
 2. Pay billing statements in full and on time (have I said this enough? it's important haha). As mentioned earlier, this will allow you to reap the benefits of having a credit card without suffering any of the negative consequences.
 
-It can be a bit hard to qualify for a card when you don't have an established credit background. If you're just starting out, the Discover it® card is a 
+It can be a bit hard to qualify for a card when you don't have an established credit background. If you're just starting out, the [Discover it®](https://www.discover.com/credit-cards/cash-back/it-card.html) card is a 
 
 ### 401k
 
