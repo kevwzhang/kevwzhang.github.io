@@ -9,7 +9,7 @@ For the first several months or so since starting my current job, I didn't reall
 
 Here are some financial moves I've made and things I've learned so far since starting my career. Note that I'm not a financial expert, nor do I claim to be one, but my hope is that some of you may find this information useful as you begin to plan your strategies and work towards your financial goals. It's also important to note that everyone's situation is different, so everything here that applies to me and my own personal experiences may or may not be applicable to you.
 
-### Open a Credit Card Account ASAP
+### Open a Credit Card Account
 One of the very first things I did after starting my job was apply for a credit card. I had a stable income and was living on my own, so it was the perfect time to open a line of credit and build up my credit score. I've listed a few advantages of owning a credit card here:
 - Secure
     - Credit cards are much more secure than debit cards. If your card number gets stolen and someone makes an unwarranted purchase on your account, you wont lose any money. With a debit card, it can be harder for you to get that money back because the money is immeditely taken out of your bank account at the time of purchase. With a credit card, you can contact your provider and ask them to cancel the fradulent transaction and issue you a new card. Fortunately, I haven't had to deal with a stolen card number yet, but knowing that I have that added security is very nice.
@@ -27,12 +27,12 @@ Of course, there can be consequences to owning a credit card as well - but these
     - If you miss a payment and pay it off later after the deadline, you'll likely incur some sort of late fee that you also have to pay. I haven't had to pay a late fee and this repercussion can be avoided by paying bills in full and on time.
 - Lowers your Credit Score
     - Just like having a credit card could raise your score, it could also lower your score. It all depends on whether or not you're paying your bills. Once again, if you don't want a lower credit score, pay bills in full and on time.
-The important thing to note is that if you pay every bill in full and on time, you won't expereinece any of these consequences
-I personally have not had to deal with any of these consequences of owning a credit card. To avoid the disadvantages, there are two rules I abide by when using a credit card.
-Treat your credit card as if it was a debit card - meaning don't spend more than you have.
-Pay billing statements in full and on time (have I said this enough? it's important haha). As mentioned earlier, this will allow you to reap the benefits of having a credit card without suffering any of the negative consequences. If you don't it will decrease your credit score. You'll notice a lot of the time you only have to pay back a minimum per month. I have never done this and would highly reccomend not paying just the minimum.
 
-It can be a bit hard to qualify for a card if you're early in your career like me. The Discover IT card is free
+I personally have not had to deal with any of these consequences of owning a credit card. To avoid the consequences, there are two rules I abide by when using a credit card:
+1. Treat your credit card as if it was a debit card - meaning don't spend more than you have. Only make purchases if you could theoretically pay for it right now.
+2. Pay billing statements in full and on time (have I said this enough? it's important haha). As mentioned earlier, this will allow you to reap the benefits of having a credit card without suffering any of the negative consequences.
+
+It can be a bit hard to qualify for a card when you don't have an established credit background. If you're just starting out, the Discover it® card is a 
 
 ### 401k
 
