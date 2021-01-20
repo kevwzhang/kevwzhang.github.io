@@ -45,11 +45,11 @@ The main difference between a Traditional 401(k) and a Roth 401(k) is when incom
 
 Suppose you just got a paycheck for $1,000 and you set aside $200 of that $1,000 into your 401(k) retirement account. Currently, your income tax rate is 10%.
 
-Let's say you put that $200 into a Traditional 401(k) plan. When calculating how much income tax you have to pay on your $1000 paycheck, you deduct $200 from your $1000 before multiplying by 10% to get a total of $80 owed in taxes. So at this point, you pay the $80 tax, take home $720 with you, and have $200 in the retirement account. 40 years later, that intial $200 has grown to $20,000, the income tax rate has changed from 10% to 15%, and you still have that $720. Now, you want to make a withdrawl of $1,000. When you withdraw that $1,000, you calculate your tax to be $1,000 multiplied by 15% which is $150. So you pay the $150 tax and take the rest of the $850 home. If we look at the final numbers now, you spent a total of $230 ($80 + $150) in taxes, you have a total of $1,570 ($720 + $850) cash on hand, and $19,000 in your Traditional 401(k) plan.
+Let's say you put that $200 into a Traditional 401(k) plan. When calculating how much income tax you have to pay on your $1,000 paycheck, you deduct $200 from your $1,000 before multiplying by 10% to get a total of $80 owed in taxes. So at this point, you pay the $80 tax, take home $720 with you, and have $200 in the retirement account. 40 years later, that intial $200 has grown to $20,000, the income tax rate has changed from 10% to 15%, and you still have that $720. Now, you want to make a withdrawl of $1,000. When you withdraw that $1,000, you calculate your tax to be $1,000 multiplied by 15% which is $150. So you pay the $150 tax and take the rest of the $850 home. If we look at the final numbers now, you spent a total of $230 ($80 + $150) in taxes, you have a total of $1,570 ($720 + $850) cash on hand, and $19,000 in your Traditional 401(k) plan.
 
 Now, let's start with the same initial conditions of $1,000, $200, and 10% and see how the taxes are different when using a Roth 401(k).
 
-Let's say you put that $200 into a Roth 401(k) plan. When calculating how much income tax you have to pay on your $1000 paycheck, you multiply the full $1000 by 10% to get a total of $100 owed in taxes. So at this point, you pay the $100 tax, take home $700 with you, and have $200 in the retirement account. 40 years later, that intial $200 has grown to $20,000, the income tax rate has changed from 10% to 15%, and you still have that $700. Now, you want to make a withdrawl of $1,000. When you withdraw that $1,000, you withdraw the full $1,000 and pay $0 in tax. If we look at the final numbers now, you spent a total of $100 ($100 + $0) in taxes, you have a total of $1,700 ($700 + $1000) cash on hand, and $19,000 in your Roth 401(k) plan.
+Let's say you put that $200 into a Roth 401(k) plan. When calculating how much income tax you have to pay on your $1,000 paycheck, you multiply the full $1,000 by 10% to get a total of $100 owed in taxes. So at this point, you pay the $100 tax, take home $700 with you, and have $200 in the retirement account. 40 years later, that intial $200 has grown to $20,000, the income tax rate has changed from 10% to 15%, and you still have that $700. Now, you want to make a withdrawl of $1,000. When you withdraw that $1,000, you withdraw the full $1,000 and pay $0 in tax. If we look at the final numbers now, you spent a total of $100 ($100 + $0) in taxes, you have a total of $1,700 ($700 + $1000) cash on hand, and $19,000 in your Roth 401(k) plan.
 
 So as we can see, when people say that a Traditional 401(k) contribution is made using "before-tax" dollars, they mean that the money you put into the account that comes from a portion of your paycheck does not get taxed (yet). The initial deposit and its subsequent growth gets taxed when you take out the money after retirement. When people say that a Roth 401(k) contribution is made using "after-tax" dollars, they mean that the money you into the account that comes from a portion of of your paycheck does get taxed. The initial deposit and its subsequent growth does not get taxed when you take out the money after retirement.
 
@@ -72,27 +72,35 @@ One more important thing to note regarding 401(k)s - a lot of the times, your em
 ### Contribute to Your Individual Retirement Account (IRA)
 Just as it is important to contribute to your company-sponsored retirement account, it's important to open an individual retirement account and contribute to that. There are a lot of similarities between 401(k)s and IRAs - much of the information stated in the Contribute to Your 401(k) section can be applied here.
 
-If you're in a similar position as I am, I'd recommened openening up a Roth IRA. Like the Roth 401(k), you pay taxes on your contributions to your Roth IRA now but in return, you enjoy tax-free growth and withdrawls in the future. For 2021, the maximum contribution limit for a Roth IRA is $6,000.
+If you're in a similar position as I am, I'd recommened openening up a Roth IRA. Like the Roth 401(k), you pay taxes on your contributions to your Roth IRA now but in return, you enjoy tax-free growth and withdrawls in the future. Like the Roth 401(k), you can implement an investment strategy that works for you. For 2021, the maximum contribution limit for a Roth IRA is $6,000.
 
-### Understand your paycheck
+There's a nice [reference from Charles Schwab](https://www.schwab.com/ira/understand-iras/roth-vs-trad-ira) I found that quickly highlights the main difference between a Traditional IRA and a Roth 401(k).
 
-### Tracking your spending and earnings
-So I actually started doing that this month, but I should have done this way, way earlier.
+### Understand Your Paycheck
+So you just got paid, which is exciting! But what do all the numbers mean?
 
-### Paying off Debts
-So, I can't speak much on this point because I don't have any experience with what a good chunk of you experience debt. However, I'm a firm believer in paying off debts as soon and as quickly as possible.
+Another important component of financial literacy is understanding how your money is being divided in your paycheck. Paychecks differ from company to company, but I'll try to address the commonalities all paychecks share.
 
-If you're like me, you've finished your bachelor's degree and landed a good job and. I was also fortunate enough to graduate without accruing any student loan debt through a combination of scholarships, enrolling in a in-state school, and financial support from family - a luxury that I am aware that many people do not have.
+Let's say you get a paycheck with a **Gross Pay** of $1,000. This is the initial amount of raw dollars you've earned for the pay period. Let's say every paycheck, you choose to allocate 20% of your pay to a 401(k) account. Under the **Deductions** section, you will see a value of $200 since 20% of $1,000 is $200. Under **Taxes**, you'll probably see four main entries:
+- Social Security Tax
+    - The amount of Social Security Tax you owe is 6.2% of your **Gross Pay**. In this example, the Social Security Tax would be $62.
+- Medicare Tax
+    - The amount of Medicare Tax you owe is 1.45% of your **Gross Pay**. In this example, the Medicare Tax would be $14.50.
+- Federal Witholding
+    - Sometimes, your employer will withold some amount of money for you to pay off income taxes. Let's say in this example, $100 is witheld for federal taxes.
+- State Tax
+    - You also have to pay state taxes on income as well and tax rules vary by state. Let's say in this example, $50 is used on state taxes.
 
-This isn't applicable to me, but i think is worth mentioning. I would pay off loans as soon as possible
+These entries sum up to a total of $226.50 for **Taxes**.
 
-Tips
-Treat your credit card like a debit card. Pretend money you are spending today
-Make your sure contribute enough to your retirement account so you are getting the full company match
-Learn pay stub
-keep track of spending and growth
+**Net Pay**, which is the total amount of money you actually take home with you, is calucated by taking **Gross Pay** and subtracting it by **Deductions** and **Taxes**. In our example, your **Net Pay** is $573.50 since $1,000 - $200 - $226.50 = $573.50.
 
-interning, working as a fast food cook, tour guide
+### Tracking Your Spending and Earnings
+So I actually started doing this pretty recently, but I should have done this way, way earlier. I wanted to be more responsible with my money and track how much I spend in different areas of my life.
 
-Currently I am putting all my money into a traditional 401k, but the end of teh year i plan to invest in roth
-There is no perfect strategy and no one can predict the future
+I keep a spreadsheet detailing every single transaction I make and I would highly recommend everyone create a spreadsheet for themselves to follow their spending and earnings. It doesn't have to be anything fancy. I also use it to keep track of the growth of my accounts. I update values in each of my accounts as transactions are made throughout a month. At the end of each month, I summarize all my transactional information. I sort my expenses into categories so I can see how much I'm spending on groceries, transportation, entertainment, etc., per month and how these values change from month to month. I also look at the difference between my starting and ending balances for each of my accounts so I can see how much they are growing each month. I can utilize all this information to figure out where it is worth my time to invest my money. Keeping track of all my earnings, payments, purchases, and accounts allows me to make improvements, cut down on spending, and give me more control over my finances.
+
+### Paying Off Debts and Loans
+So, I can't speak much on this point because I don't have much experience with large loans or large sums of debt. I was fortunate enough to graduate without accruing any student loan debt through a combination of scholarships, enrolling in a in-state school, and financial support from my family. However, if I did find myself in debt, I would try to portion my paycheck so that I could pay as much as I can as soon and as quickly as possible. This will minimize the amount of interest I would have to pay back in the future. I believe the sooner I pay off debt, the better off I'll be in the long run.
+
+**These are just some of the things I've learned about personal finances since starting my career that I wanted to share and document. Hopefully, if you are just starting out your career or even if you have been working for a while, you find this financial information useful! :D**
