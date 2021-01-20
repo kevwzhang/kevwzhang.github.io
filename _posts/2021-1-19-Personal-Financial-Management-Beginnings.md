@@ -87,9 +87,9 @@ Let's say you get a paycheck with a **Gross Pay** of $1,000. This is the initial
 - Medicare Tax
     - The amount of Medicare Tax you owe is 1.45% of your **Gross Pay**. In this example, the Medicare Tax would be $14.50.
 - Federal Withholding
-    - Sometimes, your employer will withhold some amount of money for you to pay off income taxes. Let's say in this example, $100 is withheld for federal taxes.
+    - Sometimes, your employer will withhold some amount of money for you to pay off income taxes. It's generally a value proportional to your **Gross Pay**. Let's say in this example, $100 is withheld for federal taxes.
 - State Tax
-    - You also have to pay state taxes on income as well and tax rules vary by state. Let's say in this example, $50 is used on state taxes.
+    - You also have to pay state taxes on income as well and tax rules vary by state. It's generally a value proportional to your **Gross Pay**. Let's say in this example, $50 is used on state taxes.
 
 These entries sum up to a total of $226.50 for **Taxes**.
 
