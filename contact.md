@@ -4,6 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Email: I may set up an email in the future
-
-<!--- Email: [email@domain.com](mailto:email@domain.com) -->
+Questions? Or just wanna chat? Send me an email at [kwzpublic@google.com](mailto:kwzpublic@google.com) :)
