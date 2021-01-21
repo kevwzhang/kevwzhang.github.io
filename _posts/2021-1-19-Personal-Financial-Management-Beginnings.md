@@ -103,4 +103,20 @@ I keep a spreadsheet detailing every single transaction I make and I would highl
 ### Paying Off Debts and Loans
 So, I can't speak much on this point because I don't have much experience with large loans or large sums of debt. I was fortunate enough to graduate without accruing any student loan debt through a combination of scholarships, enrolling in an in-state school, and financial support from my family. However, if I did find myself in debt, I would try to portion my paycheck so that I could pay as much as I can as soon and as quickly as possible. This would minimize the amount of interest I would have to pay back in the future. I believe the sooner I pay off debt, the better off I'll be in the long run.
 
+*Update January 20, 2021*
+
+A coworker of mine made a good point that I think is worth sharing.
+
+High interest debt should almost always be paid off as soon as possible, but one can argue that paying back low interest debt later on is more advantageous.
+
+The trick is to make sure your invested assets grow large enough such that it outpaces the growth of your debt. Then, once all that debt is paid off at this future point, it's possible that you will have actually gained more money in the long run than you would have if you paid off all your loan debt earlier on. The return rate of investments in the US stock market is generally higher than the interest rate of student loan debt, so theoretically, you could invest early in the stock market now and make bigger gains overall in the future.
+
+This can be hard to pull off though. If you're not financially experienced or if you have a high student loan principal balance, it's definitely safer to pay your debts early and quickly. If you only took out a small student loan, this option could be worth considering.
+
+Personally, I don't think I would have tried this. I don't like owing people money and I prefer minimizing my own risk where I can, so even in this situation, I would pay off my loans as soon as possible.
+
+Again, I don't actually have any experience regarding this particular topic - these are purely just my thoughts on debt and loans and nothing more, so take what I say with a grain of salt :)
+
+*End Update*
+
 **These are just some of the things I've learned about personal finances since starting my career that I wanted to share and document. Hopefully, if you are just starting out your career or even if you have been working for a while, you find this financial information useful!**
