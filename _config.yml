@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/kevwzhang/kevwzhang.github.io/master/i
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: kwzpublic@gmail.com
+  email: #kwzpublic@gmail.com
   facebook:
   flickr:
   github: #barryclark/jekyll-now
