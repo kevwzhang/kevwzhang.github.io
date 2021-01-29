@@ -36,7 +36,7 @@ Remember, your recommenders are allocating time out of their days to write your 
 ### 4. Write Your Statement of Purpose
 The statement of purpose is a written **statement** that explains your **purpose** for pursuing a graduate degree. It is probably the most important part of the application. It allows you to add a personal human element to your application and gives you the chance to really persuade and convince the admissions office on why you should be accepted into their graduate program. Typical questions you would have to address in your statement include:
 - Why should the university offer you admission as a student?
-- What is your motivation for pursing advanced study your specified field?
+- What is your motivation for pursing advanced study in your specified field?
 - What do you intend to do after completing the degree?
 - What work or research experience have you had in your specified field?
 
