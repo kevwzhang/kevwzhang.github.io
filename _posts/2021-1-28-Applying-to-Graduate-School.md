@@ -40,6 +40,8 @@ The statement of purpose is a written **statement** that explains your **purpose
 - What do you intend to do after completing the degree?
 - What work or research experience have you had in your specified field?
 
+I spent a lot of time and energy on this portion of the application process. I made sure to allocate myself a lot of time so that I could edit and perfect each statement of purpose for every application.
+
 Write out a draft of your statement early on so you have a chance to come back and review before submitting. It may also be helpful to have someone else look over and proofread your short essay.
 
 ### 5. Send Transcript(s)
