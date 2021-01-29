@@ -18,9 +18,9 @@ The start of the application process begins with figuring out which schools you 
 - Cost: Make sure you can afford the cost of attending. Also, a lot of the times, tuition is covered if you do research or if you work as a graduate teaching assistant.
 
 ### 2. Prepare and Take the GRE
-Many schools require/recommend you to submit GRE scores in your application. If you are like me and you aren't the best at standardized testing, I would try to start prepping at a minimum 3-4 months before applications are due, if not earlier. I would also schedule an exam, at the very latest, a month before your first application is due. For those of you that have taken the SAT, I personally think taking the GRE feels pretty similar to taking the SAT except, of course, the material is scaled for a student with a college education. One annoying nuance of the GRE is that some of the presented multiple choice problems have more than one correct answer and you must pick all of them in order to get full credit.
+Many schools require/recommend you to submit GRE scores in your application. If you are like me and you aren't the best at standardized testing, I would try to start prepping at a minimum of 3-4 months before applications are due, if not earlier. I would also schedule an exam, at the very latest, a month before your first application is due. For those of you that have taken the SAT, I personally think taking the GRE feels pretty similar to taking the SAT except, of course, the material is scaled for a student with a college education. One annoying nuance of the GRE is that some of the presented multiple choice problems have more than one correct answer and you must pick all of them in order to get full credit.
 
-A GRE score is good for five years, so if you decide last minute not to attend, you can still use the score if you apply again within the five month timeframe. If you're a college student, this means you have the option to take the GRE before your senior year if it works out better for you scheduling-wise.
+A GRE score is good for five years, so if you decide last minute not to attend, you can still use the score if you apply again within the five year timeframe. If you're a college student, this means you have the option to take the GRE before your senior year if it works out better for you scheduling-wise.
 
 One of my schools I applied to told me they would accept either a GRE score or a GMAT score. When I took practice tests for both exams, I performed slightly better on the GMAT exam, so if your school accepts exams other than the GRE, you should definitely consider the alternatives if you perform better on them.
 
@@ -29,15 +29,16 @@ Typically, a graduate application will require two or three letters of recommend
 
 Getting a letter from an academic professor is valuable because, well, they are academic professionals. They know what it takes to be successful in academia. It only makes sense to have an academic recommend you as you are applying to be an academic student. The university which you are applying to will also gain better insight on how you will perform as a student in a university setting.
 
-If you are in college right now and you haven't made a good connection with a professor, I would highly recommend establishing at least one. If you've graduated and never made one, it's still worth reaching out to your past professors, especially if you did well in their class. Though not ideal, in reality, professors are used to getting requests from students they may not have known very well and they still write letters of rec for them. It's more common than you may think and it doesn't hurt to reach out.
+If you are in college right now and you haven't made a good connection with a professor, I would highly recommend taking the time to establish at least one. If you've graduated and never made one, it's still worth reaching out to your past professors, especially if you did well in their class. Though not ideal, in reality, professors are used to getting requests from students they may not have known very well and they still write letters of rec for them. It's more common than you may think and it doesn't hurt to reach out.
 
 Remember, your recommenders are allocating time out of their days to write your letters so make sure you send them a thank you to show your appreciation!
 
 ### 4. Write Your Statement of Purpose
-The statement of purpose is a written **statement** explains your **purpose** for pursuing a graduate degree. It is probably the most important part of the application. It allows you to add a personal human element to your application and gives you the chance to really persuade and convince the admissions office on why you should be accepted into their graduate program. Typical questions you would have to address in your statement include:
+The statement of purpose is a written **statement** that explains your **purpose** for pursuing a graduate degree. It is probably the most important part of the application. It allows you to add a personal human element to your application and gives you the chance to really persuade and convince the admissions office on why you should be accepted into their graduate program. Typical questions you would have to address in your statement include:
 - Why should the university offer you admission as a student?
 - What is your motivation for pursing advanced study your specified field?
 - What do you intend to do after completing the degree?
+- What work or research experience have you had in your specified field?
 
 Write out a draft of your statement early on so you have a chance to come back and review before submitting. It may also be helpful to have someone else look over and proofread your short essay.
 
