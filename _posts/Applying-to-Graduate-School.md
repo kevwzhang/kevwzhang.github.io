@@ -14,7 +14,7 @@ Obviously, there are a lot of different graduate opportunities a person can purs
 ### 1. Determine What Schools You Will Apply To
 The start of the application process begins with figuring out which schools you will apply to. Things to consider when applying to schools:
 - Number of Schools: I would recommend applying to more than one school. As confident as you may be about getting accepted by your top pick, there are no guarantees and you can never be too sure. Two applications is solid but less than two is a bit risky. I personally submitted three graduate applications.
-- Location: One big reason I chose to move to Chicago was that it would put in an area filled with universities, so if I elected to start going to back to school, I would be within reach of lots of great schools. It also gave me the chance to work while taking classes since everything is in the same centralized area. If you plan on relocating and going back to a being a full-time student, location probably doesn't matter as much.
+- Location: One big reason I chose to move to Chicago was that it would put me in an area filled with universities, so if I elected to start going to back to school, I would be within reach of lots of great schools. It also gave me the chance to work while taking classes since everything is in the same centralized area. If you plan on relocating and going back to a being a full-time student, location probably doesn't matter as much.
 - Cost: Make sure you can afford the cost of attending. Also, a lot of the times, tuition is covered if you do research or if you work as a graduate teaching assistant.
 
 ### 2. Prepare and Take the GRE
