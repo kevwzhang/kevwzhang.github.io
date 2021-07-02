@@ -8,19 +8,19 @@ title: Expenses In 2021 So Far
 
 I keep really detailed records of all my financials and I wanted to see what my spending has been like for the first six months of this year, so I created some pie charts that show the proportion of money spent on specific categories for each month.
 
-![](/images/2021_expenses/January\ 2021\ Expenses.png)
+![](/images/2021_expenses/January_2021_Expenses.png)
 
-![](/images/2021_expenses/February\ 2021\ Expenses.png)
+![](/images/2021_expenses/February_2021_Expenses.png)
 
 Other expenses here comprises of payments for school and some pricey computer parts I bought to build a maching learning computer that can run models.
 
-![](/images/2021_expenses/March\ 2021\ Expenses.png)
+![](/images/2021_expenses/March_2021_Expenses.png)
 
-![](/images/2021_expenses/April\ 2021\ Expenses.png)
+![](/images/2021_expenses/April_2021_Expenses.png)
 
-![](/images/2021_expenses/May\ 2021\ Expenses.png)
+![](/images/2021_expenses/May_2021_Expenses.png)
 
-![](/images/2021_expenses/June\ 2021\ Expenses.png)
+![](/images/2021_expenses/June_2021_Expenses.png)
 
 Also some big money dropped on tuition payments here.
 
