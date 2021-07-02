@@ -24,6 +24,6 @@ Other expenses here comprises of payments for school and some pricey computer pa
 
 Also some big money dropped on tuition payments here.
 
-In total, I spent exactly $23,824.05 so far in 2021 (yikes!). All I'm getting from this is that I need to cook more often so that I'm not spending $$ eating out all the time. Also I throw away too much money on rent payments.
+In total, I spent exactly $23,824.05 so far in 2021 (yikes!). All I'm getting from this is that I need to cook more often so that I'm not spending $$ eating out all the time. Also, I throw away too much money on rent payments.
 
 So on average, for the first half of this year, rent made up of 40% of my expenses and tuition made up 34%. Everything else I paid for averages out to be roughly $1000 a month, which is not too bad actually.
